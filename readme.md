@@ -1,0 +1,1 @@
+its a basic set of functions from chapter 3 in Brad Dayley's node/angular/mongo book. 

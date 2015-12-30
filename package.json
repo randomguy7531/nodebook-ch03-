@@ -1,9 +1,15 @@
 {
 	"author": "Stanley Lewis",
-	"name" : "censorify",
-	"version": "0.1.1",
+	"name" : "censorifysl",
+	"version": "0.1.3",
 	"description":"Censors words out of a text",
 	"main":"censortext",
+	"repository": 
+	{
+		"type":"git",
+		"url":"https://github.com/randomguy7531/nodebook-ch03-"
+	},
+	"keywords": ["censor", "words"],
 	"dependencies":{},
 	"engines":{
 		"node":"*"
